@@ -1,4 +1,4 @@
-基于Springboot框架实现的企业门户完整前后端系统(程序+论文)
+基于Springboot框架实现的企业门户完整前后端系统
 =
 ###  完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))
 ###  作者微信：19941326836  QQ：952045282 
@@ -58,8 +58,6 @@ Maven：任意版本都可以
 
 四、项目截图
 ---
-文档截图
-![](limage/1.png)
 使用截图
 ![](image/1.png)
 ![](image/2.png)
